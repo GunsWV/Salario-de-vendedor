@@ -16,6 +16,7 @@ Digite o total em vendas:2000
 
 O total é 1800.00
 
+---
 Digite aqui seu nome:Larissa
 
 Digite aqui seu salario:10000
@@ -24,6 +25,7 @@ Digite o total em vendas:5000
 
 O total é 10750.00
 
+---
 Digite aqui seu nome:Manuela
 
 Digite aqui seu salario:700
@@ -31,3 +33,5 @@ Digite aqui seu salario:700
 Digite o total em vendas:2000
 
 O total é 1000.00
+
+---
