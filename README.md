@@ -1,0 +1,1 @@
+# Salario-de-vendedor
